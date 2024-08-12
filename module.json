@@ -12,12 +12,16 @@
             "name": "hashfastr",
             "url": "https://github.com/Hashfastr",
             "discord": "Hashfastr"
-        }
+        },
+		{
+			"name": "seniortwinkie",
+			"url": "https://github.com/seniortwinkie"
+		}
     ],
     "compatibility": {
             "minimum": "10",
             "maximum": "12",
-            "verified": "12.327"
+            "verified": "12.330"
     },
     "styles": [
         "css/styles.css"
@@ -165,8 +169,8 @@
             "package": "5e-complete"
         }
     ],
-    "url": "https://github.com/Hashfastr/5e-complete-v12",
-    "manifest": "https://github.com/Hashfastr/5e-complete-v12/releases/download/v0.3.13/module.json",
-    "download": "https://github.com/Hashfastr/5e-complete-v12/releases/download/v0.3.13/module.zip",
+    "url": "https://github.com/seniortwinkie/5e-complete-v12",
+    "manifest": "https://github.com/seniortwinkie/5e-complete-v12/releases/download/v0.3.13/module.json",
+    "download": "https://github.com/seniortwinkie/5e-complete-v12/releases/download/v0.3.13/module.zip",
     "description": "This module adds classes, subclasses, and other items missing from the D&D 5e SRD"
 }
